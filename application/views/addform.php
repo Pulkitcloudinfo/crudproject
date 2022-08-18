@@ -3,6 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>CodeIgniter Simple CRUD Tutorial</title>
+	<title>CodeIgniter Simple CRUD Tutorialby dev changes</title>
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>bootstrap/css/bootstrap.min.css">
 </head>
 <body>
